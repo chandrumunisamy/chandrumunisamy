@@ -22,6 +22,6 @@ I'm a **developer and AI/backend engineer** who loves building data-driven syste
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrumunisamy&layout=compact&theme=default)
 
 ### 💬 Connect with me
-[LinkedIn](https://www.linkedin.com/in/chandrumunisamy) | [Email](mailto:example@example.com)
+[Email](mailto:chandru.m27.ai@gmail.com)
 
 Thanks for stopping by! I'm always looking to collaborate on innovative projects and learn new technologies.
