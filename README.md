@@ -1,27 +1,17 @@
-## Hello, I'm Chandru Munisamy 👋
+## Welcome
 
-I'm a **developer and AI/backend engineer** who loves building data-driven systems, recommendation engines and polished full-stack apps. I enjoy exploring machine learning, creative design and high-quality engineering.
+I’m Chandru Munisamy, an undergraduate student pursuing a B.Tech in Artificial Intelligence & Data Science at IIITDM Kurnool (Class of 2027).  My work centres on **backend and distributed data systems** and applying natural language processing to real‑world problems.
 
-### 🚀 Flagship Project: ARC1 Recommendation Engine
-**ARC1** is my flagship project – a content recommendation system built with **FastAPI**, authentication, and trust-floor algorithms. It serves content APIs, computes user/item embeddings, integrates a ReviewOps system and produces reliable recommendations. It includes robust tests, benchmarks and a clear roadmap.
+### Focus areas
 
-### 🛠 Tech Stack
-**Languages:** Python, JavaScript/TypeScript, Dart  
-**Frameworks:** FastAPI, Flask, Node.js, React, Flutter  
-**Tools:** Git, Docker, PostgreSQL, Redis, AWS, Linux  
-**Domains:** Machine Learning, Recommender Systems, Full-stack development, API design
+- **Backend APIs & data platforms** – building and securing RESTful services with Python, FastAPI and PostgreSQL, and exploring distributed data tools such as Redis, Redpanda and Apache Iceberg.
+- **Recommendation and discovery systems** – designing preference models and hybrid recommenders for multimedia content.  I’m developing **ARC1**, an early‑stage discovery platform for movies, anime and music; the repository currently contains design documentation and scaffolding while implementation is under way.
+- **Large‑scale data ingestion** – developed a dual‑path ingestion pipeline on Kubernetes/K3s that sustained **1 448 requests/s** across **87 594** overload‑test requests with **0% failures** using Redis admission control, token‑bucket rate limiting, Redpanda buffering and back‑pressure handling.
+- **Applied NLP** – contributed to **BioSentinel**, a team submission for EXIST 2026 Task 2.2 (Source Intention in Memes).  We trained an XLM‑RoBERTa classifier and achieved official test scores of **0.3229 ICM‑Soft‑Norm** and **0.4236 macro‑F1**, a 13.9 % improvement over the baseline.
 
-### 📦 Featured Projects
-- **ARC1 Recommendation Engine** – full-stack AI backend for personalised content recommendations.  
-- **BioSentinel (EXIST2026)** – collection of machine-learning notebooks exploring classification and clustering on biological datasets.  
-- **Scale Bloom** – a polished game built with JavaScript and Phaser, featuring level design and responsive UI.  
-- **Portfolio Website** – upcoming personal portfolio site to showcase my work and blog posts.
+### Get in touch
 
-### 📊 GitHub Stats
-![Chandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandrumunisamy&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrumunisamy&layout=compact&theme=default)
+- 📧 [Email](mailto:chandru.m27.ai@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandru-munisamy/)
 
-### 💬 Connect with me
-[Email](mailto:chandru.m27.ai@gmail.com)
-
-Thanks for stopping by! I'm always looking to collaborate on innovative projects and learn new technologies.
+I’m open to internship opportunities in backend engineering, data engineering and applied machine learning.  Feel free to connect and discuss collaboration.
