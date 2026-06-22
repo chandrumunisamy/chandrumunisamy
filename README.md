@@ -12,6 +12,6 @@ I’m Chandru Munisamy, an undergraduate student pursuing a B.Tech in Artificial
 ### Get in touch
 
 - 📧 [Email](mailto:chandru.m27.ai@gmail.com)
-- 💌 [LinkedIn](https://www.linkedin.com/in/chandru-munisamy/)
+- 💌 [LinkedIn]([https://www.linkedin.com/in/chandru-munisamy/](https://www.linkedin.com/in/chandru-munisamy-a68540275/))
 
 I’m open to internship opportunities in backend engineering, data engineering and applied machine learning. Feel free to connect and discuss collaboration.
